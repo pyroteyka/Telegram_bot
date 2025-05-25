@@ -1,0 +1,34 @@
+{
+    "recipes": [
+        {
+            "name": "Рецепты супов",
+            "url": "https://eda.ru/recepty/supy",
+            "ingredients": [],
+            "instructions": ""
+        },
+        {
+            "name": "Рецепты сладостей",
+            "url": "https://eda.ru/recepty/deserty",
+            "ingredients": [],
+            "instructions": ""
+        },
+        {
+            "name": "Рецепты закусок",
+            "url": "https://eda.ru/recepty/zakuski/olive",
+            "ingredients": [],
+            "instructions": ""
+        },
+        {
+            "name": "Рецепты лимонада",
+            "url": "https://eda.ru/recepty/napitki/limonad",
+            "ingredients": [],
+            "instructions": ""
+        },
+        {
+            "name": "Рецепты основных блюд",
+            "url": "https://eda.ru/recepty/osnovnye-blyuda/kurica-v-duhovke",
+            "ingredients": [],
+            "instructions": ""
+        }
+    ]
+}
